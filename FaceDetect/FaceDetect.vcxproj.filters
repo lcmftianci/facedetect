@@ -21,9 +21,15 @@
     <ClCompile Include="open_face_get.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="caffedetect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="open_face_get.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="caffeheader.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
